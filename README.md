@@ -41,11 +41,12 @@ Returns:
 ```
 ## Live Demo
 
-https://loan-prediction-api.onrender.com
+https://loan-prediction-api-q6um.onrender.com
 
 ## API Documentation
 
-https://loan-prediction-api.onrender.com/docs
+https://loan-prediction-api-q6um.onrender.com/docs
+
 ## Author
 
 Krish Bagadia
