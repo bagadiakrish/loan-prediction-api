@@ -41,11 +41,11 @@ Returns:
 ```
 ## Live Demo
 
-https://loan-prediction-api-q6um.onrender.com
+https://loan-prediction-api-q6um.onrender.com/docs
 
 ## API Documentation
 
-https://loan-prediction-api-q6um.onrender.com/docs
+https://loan-prediction-api-q6um.onrender.com
 
 ## Author
 
