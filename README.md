@@ -39,7 +39,13 @@ Returns:
   "prediction":"Loan Approved"
 }
 ```
+## Live Demo
 
+https://loan-prediction-api.onrender.com
+
+## API Documentation
+
+https://loan-prediction-api.onrender.com/docs
 ## Author
 
 Krish Bagadia
